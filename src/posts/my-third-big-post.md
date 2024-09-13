@@ -1,5 +1,5 @@
 ---
-title: Alemene
+title: Alcmene
 thumbnail: /static/img/portfolio-tiles-02.png
 tags:
   - Home
